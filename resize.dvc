@@ -1,0 +1,6 @@
+outs:
+- md5: ee7cc39b750d95bb3060a9e9d3e03bb7.dir
+  size: 5995598
+  nfiles: 86
+  hash: md5
+  path: resize
