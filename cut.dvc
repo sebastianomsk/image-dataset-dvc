@@ -1,0 +1,6 @@
+outs:
+- md5: 918dbf6e2ec31c79a73060ae0be09097.dir
+  size: 5122474
+  nfiles: 344
+  hash: md5
+  path: cut
